@@ -1,0 +1,56 @@
+h1{
+    margin: 0;
+    color: azure
+}
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.principal{
+    background-image: url(../imgs/principal.jpg) ;
+    background-size: cover;
+    background-position: bottom;
+    height: 201px;
+    padding: 220px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.span-principal{
+    font-weight: 300;
+}
+
+.principal p{
+    font-size: 25px;
+    color: rgb(37, 192, 120)
+}
+
+.productos{
+    width: 80%;
+    margin: auto;
+}
+
+.productos p{
+font-size: 30px;
+}
+
+.productos td{
+width: 50%;
+padding: 50px;
+}
+
+.productos img {
+    width: 100%;
+}
+
+.footer{
+    background-color: silver;
+    height: 100px;
+}
+
+.footer p{
+    margin: 0px;
+    line-height: 6;
+    text-align: center;
+    color:black;
+    font-weight: 700;
+}
